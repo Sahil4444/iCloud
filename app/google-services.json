@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "70525903888",
+    "firebase_url": "https://icloud-3a6ae-default-rtdb.firebaseio.com",
+    "project_id": "icloud-3a6ae",
+    "storage_bucket": "icloud-3a6ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70525903888:android:e820fd50320382b4cad695",
+        "android_client_info": {
+          "package_name": "com.example.iCloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNItM_kl4OmOPwTos3J0bFxNS3LPu8dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70525903888:android:c38659d83a2a06decad695",
+        "android_client_info": {
+          "package_name": "com.example.icloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuNItM_kl4OmOPwTos3J0bFxNS3LPu8dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

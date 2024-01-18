@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">iCloud</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icloud">iCloud</string>
+    <string name="email_id">Email id</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
+    <string name="not_register_yet">Not register yet?</string>
+    <string name="already_registered">Already Registered!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="enter_task_here">Enter Task Here</string>
+</resources>
